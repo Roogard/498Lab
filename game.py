@@ -6,7 +6,8 @@ def ask_question(question, answer):
 
 def main():
     questions = {
-        "What is the capital of France?": "paris",
+        #changed one question
+        "What is the capital of rizz?": "ohio",
         "What is 2 + 2?": "4",
         "What is the color of the sky?": "blue",
         "Who wrote 'To Kill a Mockingbird'?": "harper lee",
